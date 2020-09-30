@@ -1,5 +1,6 @@
 
-<img src="https://github-readme-stats.vercel.app/api?username=iwasnevergivenaname&theme=react&show_icons=true" /> <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=iwasnevergivenaname&layout=compact&theme=react" />
+// <img src="https://github-readme-stats.vercel.app/api?username=iwasnevergivenaname&theme=react&show_icons=true" /> 
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=iwasnevergivenaname&layout=compact&theme=react" />
 
 <!--
 **iwasnevergivenaname/iwasnevergivenaname** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
